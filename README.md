@@ -318,5 +318,8 @@ def ChineseRemainderTheorem(n1, r1, n2, r2):
 print(ChineseRemainderTheorem(13, 7, 6, 5))
 print(ChineseRema
 
+
+
+
 colab link: https://colab.research.google.com/drive/1G-W_5Jt02vElwQiulalRFGikhJomDPul
 https://colab.research.google.com/drive/1pxmXMS76Q547jqlIKTbK_HEjsa-zCXmr
